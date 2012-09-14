@@ -8,8 +8,8 @@ Global hotkeys for iTunes on windows.
 * __iTunesControl.py__ - The original python script, requires pyHook and the python
 win32 hooks installed. It's probably working.
 * __iControl.ahk__ - Autohotkey re-write of the original script. Mostly just for noodling
-aroung with autohotkey.
-* __iTunesCOM__ - The redicioulsly hard to find iTunes COM interface documentation.
+around with autohotkey.
+* __iTunesCOM__ - The ridiculously hard to find iTunes COM interface documentation.
 
 ## Hotkeys
 
@@ -113,11 +113,11 @@ a playlist.
 been "run as administrator" this program also needs to be run as
 administrator.
 
-## Design and Hacking (really it's an aplogie)
+## Design and Hacking (really it's an apology)
 
 I wrote this program back when I was about 15, and really new to python.
 I think this is the first program I wrote that used threads, and I don't
-think I quite knew what that ment besides "you can run more than one
+think I quite knew what that meant besides "you can run more than one
 thing at once" and "you have to pass messages with a queue or it will
 crash". I've tried to hold off on releasing this because it's in such 
 bad shape, but I haven't had the time or the patience to clean it
@@ -133,10 +133,10 @@ into a queue. (There a two seperate queues, one for the mouse and another
 for the keyboard). There are two threads that are basically loops waiting
 for an item to come through the queue, both of the threads maintain a 
 connection to iTunes using it's COM interface (a little like dbus or
-applescript for the uninitiated). Once an item is recived, they have
+applescript for the uninitiated). Once an item is received, they have
 a huge conditional sections that basically executes COM statements
 based on the key pressed and that's it. Things get a little more complicated
 with the text-entry stuff, basically it just bypasses the other conditionals.
 
-Have fun, and good luck using it. (and please belive me when I say I write
+Have fun, and good luck using it. (and please believe me when I say I write
 much better code these days.)
