@@ -10,7 +10,7 @@ win32 hooks installed. It's probably working.
 * __iControl.ahk__ - Autohotkey re-write of the original script. Mostly just for noodling
 around with autohotkey.
 * __iTunesCOM__ - The ridiculously hard to find iTunes COM interface documentation. I've
-put it up on github pages [here](joshkunz.github.com/iTunesControl).
+put it up on github pages [here](http://joshkunz.github.com/iTunesControl).
 
 ## Hotkeys
 
