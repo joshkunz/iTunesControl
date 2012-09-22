@@ -1,0 +1,113 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="iTunes COM Interface Documentation"><param name="Local" value="main.html"><param name="ImageNumber" value="11"></OBJECT>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="File List"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="iTunesAppCOM.idl"><param name="Local" value="iTunesAppCOM_8idl.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="iTunesArtworkCOM.idl"><param name="Local" value="iTunesArtworkCOM_8idl.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="iTunesCOMInterface.idl"><param name="Local" value="iTunesCOMInterface_8idl.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="iTunesEncoderCOM.idl"><param name="Local" value="iTunesEncoderCOM_8idl.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="iTunesEQPresetCOM.idl"><param name="Local" value="iTunesEQPresetCOM_8idl.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="iTunesObjectCOM.idl"><param name="Local" value="iTunesObjectCOM_8idl.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="iTunesPlaylistCOM.idl"><param name="Local" value="iTunesPlaylistCOM_8idl.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="iTunesSourceCOM.idl"><param name="Local" value="iTunesSourceCOM_8idl.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="iTunesTrackCOM.idl"><param name="Local" value="iTunesTrackCOM_8idl.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="iTunesVisualCOM.idl"><param name="Local" value="iTunesVisualCOM_8idl.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="iTunesWindowCOM.idl"><param name="Local" value="iTunesWindowCOM_8idl.html"><param name="ImageNumber" value="11"></OBJECT>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Class List"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="_IITConvertOperationStatusEvents"><param name="Local" value="interface__IITConvertOperationStatusEvents.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="_IiTunesEvents"><param name="Local" value="interface__IiTunesEvents.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITArtwork"><param name="Local" value="interfaceIITArtwork.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITArtworkCollection"><param name="Local" value="interfaceIITArtworkCollection.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITAudioCDPlaylist"><param name="Local" value="interfaceIITAudioCDPlaylist.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITBrowserWindow"><param name="Local" value="interfaceIITBrowserWindow.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITConvertOperationStatus"><param name="Local" value="interfaceIITConvertOperationStatus.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITEncoder"><param name="Local" value="interfaceIITEncoder.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITEncoderCollection"><param name="Local" value="interfaceIITEncoderCollection.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITEQPreset"><param name="Local" value="interfaceIITEQPreset.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITEQPresetCollection"><param name="Local" value="interfaceIITEQPresetCollection.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITFileOrCDTrack"><param name="Local" value="interfaceIITFileOrCDTrack.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITIPodSource"><param name="Local" value="interfaceIITIPodSource.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITLibraryPlaylist"><param name="Local" value="interfaceIITLibraryPlaylist.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITObject"><param name="Local" value="interfaceIITObject.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITOperationStatus"><param name="Local" value="interfaceIITOperationStatus.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITPlaylist"><param name="Local" value="interfaceIITPlaylist.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITPlaylistCollection"><param name="Local" value="interfaceIITPlaylistCollection.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITPlaylistWindow"><param name="Local" value="interfaceIITPlaylistWindow.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITSource"><param name="Local" value="interfaceIITSource.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITSourceCollection"><param name="Local" value="interfaceIITSourceCollection.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITTrack"><param name="Local" value="interfaceIITTrack.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITTrackCollection"><param name="Local" value="interfaceIITTrackCollection.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IiTunes"><param name="Local" value="interfaceIiTunes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITURLTrack"><param name="Local" value="interfaceIITURLTrack.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITUserPlaylist"><param name="Local" value="interfaceIITUserPlaylist.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITVisual"><param name="Local" value="interfaceIITVisual.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITVisualCollection"><param name="Local" value="interfaceIITVisualCollection.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITWindow"><param name="Local" value="interfaceIITWindow.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITWindowCollection"><param name="Local" value="interfaceIITWindowCollection.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="iTunesApp"><param name="Local" value="classiTunesApp.html"><param name="ImageNumber" value="11"></OBJECT>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Class Hierarchy"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="_IITConvertOperationStatusEvents"><param name="Local" value="interface__IITConvertOperationStatusEvents.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="_IiTunesEvents"><param name="Local" value="interface__IiTunesEvents.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITArtwork"><param name="Local" value="interfaceIITArtwork.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITArtworkCollection"><param name="Local" value="interfaceIITArtworkCollection.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITEncoder"><param name="Local" value="interfaceIITEncoder.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITEncoderCollection"><param name="Local" value="interfaceIITEncoderCollection.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITEQPreset"><param name="Local" value="interfaceIITEQPreset.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITEQPresetCollection"><param name="Local" value="interfaceIITEQPresetCollection.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITObject"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="IITPlaylist"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="IITAudioCDPlaylist"><param name="Local" value="interfaceIITAudioCDPlaylist.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="IITLibraryPlaylist"><param name="Local" value="interfaceIITLibraryPlaylist.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="IITUserPlaylist"><param name="Local" value="interfaceIITUserPlaylist.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="IITSource"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="IITIPodSource"><param name="Local" value="interfaceIITIPodSource.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="IITTrack"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="IITFileOrCDTrack"><param name="Local" value="interfaceIITFileOrCDTrack.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="IITURLTrack"><param name="Local" value="interfaceIITURLTrack.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITOperationStatus"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="IITConvertOperationStatus"><param name="Local" value="interfaceIITConvertOperationStatus.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITPlaylistCollection"><param name="Local" value="interfaceIITPlaylistCollection.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITSourceCollection"><param name="Local" value="interfaceIITSourceCollection.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITTrackCollection"><param name="Local" value="interfaceIITTrackCollection.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IiTunes"><param name="Local" value="interfaceIiTunes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITVisual"><param name="Local" value="interfaceIITVisual.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITVisualCollection"><param name="Local" value="interfaceIITVisualCollection.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITWindow"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="IITBrowserWindow"><param name="Local" value="interfaceIITBrowserWindow.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="IITPlaylistWindow"><param name="Local" value="interfaceIITPlaylistWindow.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="IITWindowCollection"><param name="Local" value="interfaceIITWindowCollection.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="iTunesApp"><param name="Local" value="classiTunesApp.html"><param name="ImageNumber" value="11"></OBJECT>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Class Members"><param name="Local" value="functions.html"><param name="ImageNumber" value="11"></OBJECT>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Namespace List"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="iTunesLib"><param name="Local" value="namespaceiTunesLib.html"><param name="ImageNumber" value="11"></OBJECT>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="File Members"><param name="Local" value="globals.html"><param name="ImageNumber" value="11"></OBJECT>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Namespace Members"><param name="Local" value="namespacemembers.html"><param name="ImageNumber" value="11"></OBJECT>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Related Pages"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="iTunes COM Interface Changes"><param name="Local" value="changehistory.html"><param name="ImageNumber" value="11"></OBJECT>
+  </UL>
+</UL>
