@@ -5,7 +5,7 @@ Global hotkeys for iTunes on windows.
 
 __Disclaimer:__ Since this has become my most popular repository, I would like to add that
 is code is absolutely __not__ representative of the type of code I produce
-now that I--y'know--actually know how to program. For details see 
+now that I &mdash; y'know &mdash; actually know how to program. For details see 
 [below](#design-and-hacking-really-its-an-apology).
 
 ## What's in here?
